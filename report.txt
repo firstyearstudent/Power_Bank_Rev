@@ -1,0 +1,74 @@
+Info: Processing symbol 'U2:Components_Footprint:SOT95P280X120-6N'.
+Info: Processing symbol 'LED3:PCM_LED_SMD_AKL:LED_0603_1608Metric'.
+Info: Processing symbol 'LED4:PCM_LED_SMD_AKL:LED_0603_1608Metric'.
+Info: Processing symbol 'LED5:PCM_LED_SMD_AKL:LED_0805_2012Metric'.
+Info: Processing symbol 'LED6:PCM_LED_SMD_AKL:LED_0603_1608Metric'.
+Info: Processing symbol 'LED7:PCM_LED_SMD_AKL:LED_0603_1608Metric'.
+Info: Processing symbol 'P1:PCM_fab:Conn_USB_A_Socket_AdamTech_USB-A-S-RA-TSMT'.
+Info: Processing symbol 'P3:PCM_fab:Conn_USB_microB_Socket_WurthElektronik_629105136821'.
+Info: Processing symbol 'P4:Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical'.
+Info: Processing symbol 'U5:EasyEDA:VQFN-40_L6.0-W6.0-P0.50-TL-EP4.2'.
+Info: Processing symbol 'C1:PCM_Capacitor_SMD_AKL:C_0603_1608Metric'.
+Info: Processing symbol 'U4:Components_Footprint:SOT95P280X145-5N'.
+Info: Processing symbol 'U3:Package_TO_SOT_SMD:SOT-23'.
+Info: Processing symbol 'LED2:PCM_LED_SMD_AKL:LED_0603_1608Metric'.
+Info: Processing symbol 'SW1:PCM_fab:Button_CnK_PTS636.0_6x3.5mm'.
+Info: Processing symbol 'R15:PCM_SparkFun-Resistor:R_0603_1608Metric'.
+Info: Processing symbol 'R14:PCM_SparkFun-Resistor:R_0603_1608Metric'.
+Info: Processing symbol 'R13:PCM_SparkFun-Resistor:R_0603_1608Metric'.
+Info: Processing symbol 'R8:PCM_SparkFun-Resistor:R_0603_1608Metric'.
+Info: Processing symbol 'R7:PCM_SparkFun-Resistor:R_0603_1608Metric'.
+Info: Processing symbol 'R6:PCM_fab:R_0603'.
+Info: Processing symbol 'R5:PCM_fab:R_0603'.
+Info: Processing symbol 'R4:PCM_fab:R_0603'.
+Info: Processing symbol 'R1:PCM_fab:R_0603'.
+Info: Processing symbol 'R2:PCM_fab:R_0603'.
+Info: Processing symbol 'R3:PCM_fab:R_0603'.
+Info: Processing symbol 'C14:PCM_SparkFun-Capacitor:C_0805_2012Metric'.
+Info: Processing symbol 'C2:PCM_Capacitor_SMD_AKL:C_0603_1608Metric'.
+Info: Processing symbol 'C3:PCM_Capacitor_SMD_AKL:C_0603_1608Metric'.
+Info: Processing symbol 'C4:PCM_Capacitor_SMD_AKL:C_0603_1608Metric'.
+Info: Processing symbol 'C5:PCM_Capacitor_SMD_AKL:C_0603_1608Metric'.
+Info: Processing symbol 'C6:PCM_Capacitor_SMD_AKL:C_0603_1608Metric'.
+Info: Processing symbol 'C7:PCM_Capacitor_SMD_AKL:C_0603_1608Metric'.
+Info: Processing symbol 'C8:PCM_SparkFun-Capacitor:C_0805_2012Metric'.
+Info: Processing symbol 'C9:PCM_SparkFun-Capacitor:C_0805_2012Metric'.
+Info: Processing symbol 'C10:PCM_SparkFun-Capacitor:C_0805_2012Metric'.
+Info: Processing symbol 'C11:PCM_SparkFun-Capacitor:C_0805_2012Metric'.
+Info: Processing symbol 'C12:PCM_SparkFun-Capacitor:C_0805_2012Metric'.
+Info: Processing symbol 'C13:PCM_SparkFun-Capacitor:C_0805_2012Metric'.
+Info: Processing symbol 'C15:PCM_Capacitor_SMD_AKL:C_0603_1608Metric'.
+Info: Processing symbol 'C16:PCM_Capacitor_SMD_AKL:C_0603_1608Metric'.
+Info: Processing symbol 'C17:PCM_Capacitor_SMD_AKL:C_0603_1608Metric'.
+Info: Processing symbol 'C18:PCM_Capacitor_SMD_AKL:C_0603_1608Metric'.
+Info: Processing symbol 'C19:PCM_SparkFun-Capacitor:C_0603_1608Metric'.
+Info: Processing symbol 'C20:PCM_Capacitor_SMD_AKL:C_0603_1608Metric'.
+Info: Processing symbol 'D1:PCM_Diode_THT_AKL:D_DO-41_SOD81_P7.62mm_Horizontal'.
+Info: Processing symbol 'DZ1:PCM_Diode_SMD_AKL:D_SOD-123'.
+Info: Processing symbol 'J1:PCM_SparkFun-Connector:USB-C_16'.
+Info: Processing symbol 'L1:Components_Footprint:IND_F1F3-1004T-2R2M'.
+Info: Processing symbol 'LED1:PCM_LED_SMD_AKL:LED_0603_1608Metric'.
+Changed REF** reference designator to P4.
+Connected P4 pin 2 to GND.
+Added P4 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical').
+Changed P4 value from PinHeader_1x05_P2.54mm_Vertical to USB_C_Plug_USB2.0.
+Updated P4 symbol association from  to /8bb7dfde-8e7d-40c1-a8fa-180ef2293a6d.
+Updated P4 fields.
+Updated P4 sheetname to '/'.
+Updated P4 sheetfile to 'Power_Bank_Rev1.kicad_sch'.
+Updated P4 footprint filters to 'USB*C*Plug*'.
+Connected P4 pin 4 to /DPA2.
+Connected P4 pin 5 to /DMA2.
+Connected P4 pin 1 to /VDD.
+Connected P4 pin 3 to /CL.
+Updated P4 unit metadata.
+Error: P4 pad A9 not found in Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical.
+Error: P4 pad B4 not found in Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical.
+Error: P4 pad B9 not found in Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical.
+Error: P4 pad A12 not found in Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical.
+Error: P4 pad B1 not found in Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical.
+Error: P4 pad B12 not found in Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical.
+Error: P4 pad B5 not found in Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical.
+
+
+Info: Total warnings: 0, errors: 7.

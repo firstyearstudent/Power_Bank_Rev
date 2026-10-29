@@ -1,0 +1,220 @@
+** Drc report for Power_Bank_Rev1.kicad_pcb **
+** Created on 2026-10-29T17:14:12 **
+** Report includes: Errors, Warnings **
+
+** Found 47 DRC violations **
+[silk_overlap]: Silkscreen clearance (board setup constraints silk clearance 0.1500 mm; actual 0.0661 mm)
+    Rule: board setup constraints silk; warning
+    @(147.7900 mm, 73.9900 mm): Reference field of LED4
+    @(146.3925 mm, 75.0950 mm): Rectangle of LED4 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance (board setup constraints silk clearance 0.1500 mm; actual 0.0830 mm)
+    Rule: board setup constraints silk; warning
+    @(143.3925 mm, 75.7450 mm): Rectangle of LED3 on F.Silkscreen
+    @(147.7900 mm, 76.2400 mm): Reference field of LED3
+[silk_overlap]: Silkscreen clearance (board setup constraints silk clearance 0.1500 mm; actual 0.1361 mm)
+    Rule: board setup constraints silk; warning
+    @(147.9100 mm, 78.5600 mm): Reference field of LED7
+    @(146.4425 mm, 79.5950 mm): Rectangle of LED7 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance (board setup constraints silk clearance 0.1500 mm; actual 0.0561 mm)
+    Rule: board setup constraints silk; warning
+    @(143.4425 mm, 80.1200 mm): Rectangle of LED6 on F.Silkscreen
+    @(147.8300 mm, 80.3600 mm): Reference field of LED6
+[silk_overlap]: Silkscreen clearance (board setup constraints silk clearance 0.1500 mm; actual 0.1050 mm)
+    Rule: board setup constraints silk; warning
+    @(145.9425 mm, 79.8950 mm): Rectangle of LED7 on F.Silkscreen
+    @(143.4425 mm, 80.1200 mm): Rectangle of LED6 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance (board setup constraints silk clearance 0.1500 mm; actual 0.1050 mm)
+    Rule: board setup constraints silk; warning
+    @(143.9425 mm, 79.8200 mm): Rectangle of LED6 on F.Silkscreen
+    @(146.4425 mm, 79.5950 mm): Rectangle of LED7 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance (board setup constraints silk clearance 0.1500 mm; actual 0.1440 mm)
+    Rule: board setup constraints silk; warning
+    @(135.4500 mm, 101.7498 mm): Arc of C15 on F.Silkscreen
+    @(135.4100 mm, 103.5050 mm): Reference field of C15
+[silk_overlap]: Silkscreen clearance (board setup constraints silk clearance 0.1500 mm; actual 0.0550 mm)
+    Rule: board setup constraints silk; warning
+    @(145.6800 mm, 73.0800 mm): Segment of R1 on F.Silkscreen
+    @(145.8925 mm, 73.4950 mm): Rectangle of LED4 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance (board setup constraints silk clearance 0.1500 mm; actual 0.1268 mm)
+    Rule: board setup constraints silk; warning
+    @(155.7200 mm, 97.6048 mm): Arc of C2 on F.Silkscreen
+    @(155.8100 mm, 99.5250 mm): Reference field of C2
+[silk_overlap]: Silkscreen clearance (board setup constraints silk clearance 0.1500 mm; actual 0.1058 mm)
+    Rule: board setup constraints silk; warning
+    @(171.2100 mm, 94.5100 mm): Reference field of C5
+    @(171.7900 mm, 92.6250 mm): Segment of C5 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance (board setup constraints silk clearance 0.1500 mm; actual 0.1498 mm)
+    Rule: board setup constraints silk; warning
+    @(162.6425 mm, 81.3900 mm): Reference field of LED1
+    @(162.1500 mm, 79.9100 mm): Segment of SW1 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance (board setup constraints silk clearance 0.1500 mm; actual 0.1498 mm)
+    Rule: board setup constraints silk; warning
+    @(162.6425 mm, 81.3900 mm): Reference field of LED1
+    @(162.1500 mm, 80.5600 mm): Segment of SW1 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance (board setup constraints silk clearance 0.1500 mm; actual 0.0802 mm)
+    Rule: board setup constraints silk; warning
+    @(158.3500 mm, 77.3400 mm): Reference field of R3
+    @(157.5300 mm, 78.0100 mm): Segment of R3 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance (board setup constraints silk clearance 0.1500 mm; actual 0.1473 mm)
+    Rule: board setup constraints silk; warning
+    @(165.8700 mm, 99.6550 mm): Segment of U2 on F.Silkscreen
+    @(166.6800 mm, 99.0300 mm): Reference field of U2
+[silk_overlap]: Silkscreen clearance (board setup constraints silk clearance 0.1500 mm; actual 0.1400 mm)
+    Rule: board setup constraints silk; warning
+    @(161.1450 mm, 100.8600 mm): Segment of C20 on F.Silkscreen
+    @(164.0000 mm, 101.4200 mm): Rectangle of LED5 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance (board setup constraints silk clearance 0.1500 mm; actual 0.1245 mm)
+    Rule: board setup constraints silk; warning
+    @(162.7500 mm, 104.2800 mm): Reference field of LED5
+    @(164.0000 mm, 103.7200 mm): Rectangle of LED5 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance (board setup constraints silk clearance 0.1500 mm; actual 0.0600 mm)
+    Rule: board setup constraints silk; warning
+    @(164.3700 mm, 100.2700 mm): Circle of U2 on F.Silkscreen
+    @(162.9048 mm, 100.0600 mm): Arc of C20 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance (board setup constraints silk clearance 0.1500 mm; actual 0.1400 mm)
+    Rule: board setup constraints silk; warning
+    @(164.0000 mm, 101.4200 mm): Rectangle of LED5 on F.Silkscreen
+    @(162.9048 mm, 100.0600 mm): Arc of C20 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance (board setup constraints silk clearance 0.1500 mm; actual 0.1150 mm)
+    Rule: board setup constraints silk; warning
+    @(161.1700 mm, 108.8000 mm): Reference field of R10
+    @(160.5100 mm, 108.0900 mm): Segment of R10 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance (board setup constraints silk clearance 0.1500 mm; actual 0.1450 mm)
+    Rule: board setup constraints silk; warning
+    @(150.5750 mm, 90.1750 mm): Segment of C16 on F.Silkscreen
+    @(150.0700 mm, 91.3000 mm): Polygon of D2 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance (board setup constraints silk clearance 0.1500 mm; actual 0.1474 mm)
+    Rule: board setup constraints silk; warning
+    @(151.3750 mm, 91.9348 mm): Arc of C16 on F.Silkscreen
+    @(150.9000 mm, 93.6400 mm): Reference field of C16
+[silk_overlap]: Silkscreen clearance (board setup constraints silk clearance 0.1500 mm; actual 0.0000 mm)
+    Rule: board setup constraints silk; warning
+    @(147.6700 mm, 94.2000 mm): Segment of D2 on F.Silkscreen
+    @(148.9600 mm, 94.8800 mm): Reference field of D2
+[silk_overlap]: Silkscreen clearance (board setup constraints silk clearance 0.1500 mm; actual 0.1242 mm)
+    Rule: board setup constraints silk; warning
+    @(150.0700 mm, 94.2000 mm): Segment of D2 on F.Silkscreen
+    @(150.9000 mm, 93.6400 mm): Reference field of C16
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(155.9500 mm, 91.2750 mm): Reference field of U5
+    @(155.9500 mm, 91.2750 mm): Pad 41 [GND] of U5 on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(160.8700 mm, 107.2000 mm): Circle of U3 on F.Silkscreen
+    @(160.9500 mm, 106.9000 mm): Pad 1 [/IN] of U3 on F.Cu
+[silk_overlap]: Silkscreen clearance (board setup constraints silk clearance 0.1500 mm; actual 0.0000 mm)
+    Rule: board setup constraints silk; warning
+    @(149.6900 mm, 94.6900 mm): Segment of R6 on B.Silkscreen
+    @(152.3725 mm, 94.6800 mm): Segment of R4 on B.Silkscreen
+[silk_overlap]: Silkscreen clearance (board setup constraints silk clearance 0.1500 mm; actual 0.0830 mm)
+    Rule: board setup constraints silk; warning
+    @(149.2350 mm, 95.4300 mm): Reference field of R4
+    @(149.6900 mm, 94.6900 mm): Segment of R6 on B.Silkscreen
+[silk_overlap]: Silkscreen clearance (board setup constraints silk clearance 0.1500 mm; actual 0.1000 mm)
+    Rule: board setup constraints silk; warning
+    @(152.6825 mm, 96.2400 mm): Rectangle of LED2 on B.Silkscreen
+    @(150.7725 mm, 96.0800 mm): Segment of R4 on B.Silkscreen
+[silk_overlap]: Silkscreen clearance (board setup constraints silk clearance 0.1500 mm; actual 0.1448 mm)
+    Rule: board setup constraints silk; warning
+    @(153.1825 mm, 96.5400 mm): Rectangle of LED2 on B.Silkscreen
+    @(148.3075 mm, 97.4150 mm): Reference field of LED2
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7500 mm)
+    Rule: board setup constraints silk text height; warning
+    @(147.7900 mm, 73.9900 mm): Reference field of LED4
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7500 mm)
+    Rule: board setup constraints silk text height; warning
+    @(147.8300 mm, 80.3600 mm): Reference field of LED6
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7500 mm)
+    Rule: board setup constraints silk text height; warning
+    @(142.7000 mm, 83.1800 mm): Reference field of R2
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.5000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(162.9400 mm, 106.9300 mm): Reference field of U3
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7500 mm)
+    Rule: board setup constraints silk text height; warning
+    @(142.8800 mm, 72.3700 mm): Reference field of R1
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.5000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(158.4800 mm, 98.8200 mm): Reference field of C17
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7500 mm)
+    Rule: board setup constraints silk text height; warning
+    @(135.4100 mm, 103.5050 mm): Reference field of C15
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.5000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(160.1100 mm, 99.2600 mm): Reference field of C20
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7500 mm)
+    Rule: board setup constraints silk text height; warning
+    @(166.6800 mm, 99.0300 mm): Reference field of U2
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7500 mm)
+    Rule: board setup constraints silk text height; warning
+    @(147.7900 mm, 76.2400 mm): Reference field of LED3
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.6500 mm)
+    Rule: board setup constraints silk text height; warning
+    @(158.8400 mm, 104.0200 mm): Reference field of C22
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7500 mm)
+    Rule: board setup constraints silk text height; warning
+    @(161.1700 mm, 108.8000 mm): Reference field of R10
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.6500 mm)
+    Rule: board setup constraints silk text height; warning
+    @(162.5650 mm, 96.8800 mm): Reference field of R12
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7500 mm)
+    Rule: board setup constraints silk text height; warning
+    @(162.7500 mm, 104.2800 mm): Reference field of LED5
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7500 mm)
+    Rule: board setup constraints silk text height; warning
+    @(171.2100 mm, 94.5100 mm): Reference field of C5
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.6500 mm)
+    Rule: board setup constraints silk text height; warning
+    @(167.2900 mm, 110.1975 mm): Reference field of C21
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.5000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(150.9000 mm, 93.6400 mm): Reference field of C16
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7500 mm)
+    Rule: board setup constraints silk text height; warning
+    @(147.9100 mm, 78.5600 mm): Reference field of LED7
+
+** Found 4 unconnected pads **
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(119.9000 mm, 70.9000 mm): Zone 'GND' [GND] on F.Cu and B.Cu, priority 0
+    @(119.9000 mm, 70.9000 mm): Zone 'GND' [GND] on F.Cu and B.Cu, priority 0
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(156.2000 mm, 94.1850 mm): Pad 16 [unconnected-(C1-Pad1)] of U5 on F.Cu
+    @(156.7000 mm, 94.1850 mm): Pad 17 [unconnected-(C1-Pad1)] of U5 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(156.2000 mm, 88.3650 mm): Pad 35 [unconnected-(C4-Pad1)] of U5 on F.Cu
+    @(156.7000 mm, 88.3650 mm): Pad 34 [unconnected-(C4-Pad1)] of U5 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(155.2000 mm, 88.3650 mm): Pad 37 [unconnected-(C3-Pad1)] of U5 on F.Cu
+    @(155.7000 mm, 88.3650 mm): Pad 36 [unconnected-(C3-Pad1)] of U5 on F.Cu
+
+** Found 8 Footprint errors **
+[missing_footprint]: Missing footprint C1 (2.2uF_0603)
+    Local override; warning
+[missing_footprint]: Missing footprint C3 (2.2uF_0603)
+    Local override; warning
+[missing_footprint]: Missing footprint C4 (2.2uF_0603)
+    Local override; warning
+[missing_footprint]: Missing footprint C6 (100nF_0603)
+    Local override; warning
+[missing_footprint]: Missing footprint C7 (100nF_0603)
+    Local override; warning
+[missing_footprint]: Missing footprint J2 (Conn_01x04_PinHeader)
+    Local override; warning
+[missing_footprint]: Missing footprint P1 (Conn_USB_A_Socket)
+    Local override; warning
+[missing_footprint]: Missing footprint P3 (Conn_USB_microB_Socket)
+    Local override; warning
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **
