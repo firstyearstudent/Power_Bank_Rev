@@ -1,0 +1,47 @@
+{
+  "version": 3,
+  "board_hash": null,
+  "stackup": {
+    "source": "kicad",
+    "preset": null,
+    "validated": false,
+    "issues": []
+  },
+  "nets": {
+    "ground": [
+      "GND"
+    ],
+    "excluded": [],
+    "signal_override": {}
+  },
+  "components": {
+    "default": "lumped",
+    "overrides": {}
+  },
+  "ports": {},
+  "port_defs": [],
+  "sim": {
+    "f_start_hz": 100000000.0,
+    "f_stop_hz": 6000000000.0,
+    "excite": [],
+    "s_matrix_mask": "full",
+    "boundary": "PML_8",
+    "mesh_policy": "auto",
+    "accuracy": 2,
+    "end_criteria_db": -40.0,
+    "memory_guard": true,
+    "auto_rerun_on_bitflip": true
+  },
+  "run": {
+    "backend": "local",
+    "host": "localhost",
+    "port": 8765,
+    "last_run": null
+  },
+  "layers": {
+    "ports": "BL_User_1",
+    "mesh": "BL_User_2",
+    "notes": "BL_User_3",
+    "fields": {}
+  }
+}
